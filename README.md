@@ -1,4 +1,6 @@
-## Olá, eu sou o Miguel!
+## Olá!
+
+Eu sou o Miguel, tenho 18 anos e comecei a estudar programação em 2023. Estou focado em me tornar um **Desenvolvedor Web** como parte do meu caminho profissional. Meu interesse pela programação não é recente; já alguns anos atrás, fiz alguns cursos, mas agora estou realmente avançando nessa área.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
