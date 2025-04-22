@@ -4,6 +4,7 @@ Eu sou o Miguel, tenho 19 anos e comecei a estudar programação em 2023. Estou 
 
 <div style="display: inline_block"><br>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
   
   ##
