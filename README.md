@@ -3,7 +3,7 @@
 Eu sou o Miguel, tenho 19 anos e comecei a estudar programação em 2023. Estou focado em me tornar um **Desenvolvedor FullStack** como parte do meu caminho profissional. Meu interesse pela programação não é recente; já alguns anos atrás, fiz alguns cursos, mas agora estou realmente avançando nessa área.
 
 <div style="display: inline_block"><br>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java&theme=light)]
 </div>
   
   ##
